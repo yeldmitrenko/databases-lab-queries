@@ -1,1 +1,3 @@
-# Database_Lab2
+# Database_Lab_Queries
+
+### The task is in the code section
